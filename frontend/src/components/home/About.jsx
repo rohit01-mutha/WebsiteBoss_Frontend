@@ -35,7 +35,7 @@ function About() {
         </div>
         <div className='text-center'>
           <p className='text-xl font-semibold text-gray-800'>
-            “We are here to empower your online journey in the smart way. Let's build something great”
+            “We are      here to empower your online journey in the smart way. Let's build something great”
           </p>
         </div>
         
